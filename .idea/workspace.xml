@@ -4,46 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="715c09f1-6faf-488d-9bf7-fc129a09956c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decoratorPattern/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decoratorPattern/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decoratorPattern/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decoratorPattern/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decoratorPattern/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decoratorPattern/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decoratorPattern/Soy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decoratorPattern/StarBuzzCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decoratorPattern/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/observerPattern/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/observerPattern/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/observerPattern/ForecastDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/observerPattern/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/observerPattern/StatisticsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/observerPattern/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/observerPattern/ThirdPartyDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/observerPattern/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/observerPattern/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/strategyPattern/Squeak.java" afterDir="false" />
+    <list default="true" id="715c09f1-6faf-488d-9bf7-fc129a09956c" name="Changes" comment="ilk 3 pattern kodları eklendi">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/ChicagoPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/ClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/Clams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/FreshClams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/FrozenClams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/Garlic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/MarinaraSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/MozzarellaCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/Mushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/NYPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/Onion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/Pepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/PizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/PizzaTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/PlumTomatoSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/RedPepper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/ReggianoCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/Sauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/SlicedPepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/ThickCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/ThinCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/VeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractFactoryMethodPattern/Veggies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/BBQChickenPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/ChicagoStyleBBQChickenPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/ChicagoStyleClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/ChicagoStyleMargheritaPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/ChicagoStylePepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/ChicagoStyleVeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/ClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/MargheritaPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/NYStyleBBQChickenPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/NYStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/NYStyleClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/NYStyleMargheritaPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/NYStylePepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/NYStyleVeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/PizzaTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factoryMethodPattern/VeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,19 +95,34 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
+    "Application.PizzaTestDrive.executor": "Run",
     "Application.StarBuzzCoffee.executor": "Run",
     "Application.WeatherStation.executor": "Run",
+    "Application.org.example.abstractFactoryMethodPattern.PizzaTestDrive.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StarBuzzCoffee">
+  <component name="RunManager" selected="Application.org.example.abstractFactoryMethodPattern.PizzaTestDrive">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="DesignPatternCodes" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.factoryMethodPattern.PizzaTestDrive" />
+      <module name="DesignPatternCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.factoryMethodPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,8 +156,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.abstractFactoryMethodPattern.PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.abstractFactoryMethodPattern.PizzaTestDrive" />
+      <module name="DesignPatternCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.abstractFactoryMethodPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.abstractFactoryMethodPattern.PizzaTestDrive" />
+        <item itemvalue="Application.PizzaTestDrive" />
         <item itemvalue="Application.StarBuzzCoffee" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.Main" />
@@ -149,9 +195,20 @@
       <option name="presentableId" value="Default" />
       <updated>1717011070535</updated>
     </task>
+    <task id="LOCAL-00001" summary="ilk 3 pattern kodları eklendi">
+      <option name="closed" value="true" />
+      <created>1717172577475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717172577475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ilk 3 pattern kodları eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="ilk 3 pattern kodları eklendi" />
   </component>
 </project>
