@@ -4,38 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="715c09f1-6faf-488d-9bf7-fc129a09956c" name="Changes" comment="Decorator pattern, Factory method pattern, abstract factory method eklendi">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/adapterPattern/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/adapterPattern/DuckTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/adapterPattern/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/adapterPattern/Turkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/adapterPattern/TurkeyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/adapterPattern/WildTurkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/commandPattern/CeilingFan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/commandPattern/CeilingFanHighCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/commandPattern/CeilingFanOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/commandPattern/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/commandPattern/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/commandPattern/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/commandPattern/RemoteLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/commandPattern/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/commandPattern/TVOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/commandPattern/TVOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/facadePattern/Amplifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/facadePattern/CdPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/facadePattern/DvdPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/facadePattern/HomeTheaterFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/facadePattern/HomeTheaterTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/facadePattern/PopcornPopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/facadePattern/Projector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/facadePattern/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/facadePattern/TheaterLights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/singletonPattern/ChocolateBoiler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/singletonPattern/ChocolateFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/templatePattern/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/templatePattern/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/templatePattern/StarbuzzCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/templatePattern/Tea.java" afterDir="false" />
+    <list default="true" id="715c09f1-6faf-488d-9bf7-fc129a09956c" name="Changes" comment="Singleton, Command, Adapter, facade, template patterns eklendi">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/compositePattern/CafeMenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/compositePattern/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/compositePattern/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/compositePattern/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/compositePattern/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iteratorPattern/CafeMenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iteratorPattern/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iteratorPattern/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iteratorPattern/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iteratorPattern/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iteratorPattern/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iteratorPattern/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/statePattern/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/statePattern/GumballMachineTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/statePattern/HasQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/statePattern/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/statePattern/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/statePattern/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/statePattern/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,13 +177,22 @@
       <option name="project" value="LOCAL" />
       <updated>1717186658326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Singleton, Command, Adapter, facade, template patterns eklendi">
+      <option name="closed" value="true" />
+      <created>1717260861207</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717260861207</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ilk 3 pattern kodları eklendi" />
     <MESSAGE value="Decorator pattern, Factory method pattern, abstract factory method eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorator pattern, Factory method pattern, abstract factory method eklendi" />
+    <MESSAGE value="Singleton, Command, Adapter, facade, template patterns eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Singleton, Command, Adapter, facade, template patterns eklendi" />
   </component>
 </project>
