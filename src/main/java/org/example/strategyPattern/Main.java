@@ -1,6 +1,4 @@
-package org.example;
-
-import org.example.strategyPattern.*;
+package org.example.strategyPattern;
 
 public class Main {
     public static void main(String[] args) {
