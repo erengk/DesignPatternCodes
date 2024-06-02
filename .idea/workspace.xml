@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="715c09f1-6faf-488d-9bf7-fc129a09956c" name="Changes" comment="strategy main class refactor edildi">
+    <list default="true" id="715c09f1-6faf-488d-9bf7-fc129a09956c" name="Changes" comment="tamamlandı">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,27 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Main.executor": "Run",
-    "Application.PizzaTestDrive.executor": "Run",
-    "Application.RemoteLoader.executor": "Run",
-    "Application.StarBuzzCoffee.executor": "Run",
-    "Application.WeatherStation.executor": "Run",
-    "Application.org.example.abstractFactoryMethodPattern.PizzaTestDrive.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PizzaTestDrive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoteLoader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StarBuzzCoffee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeatherStation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.abstractFactoryMethodPattern.PizzaTestDrive.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.WeatherStation">
     <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.factoryMethodPattern.PizzaTestDrive" />
+      <option name="MAIN_CLASS_NAME" value="org.example._4_factoryMethodPattern.PizzaTestDrive" />
       <module name="DesignPatternCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.factoryMethodPattern.*" />
+          <option name="PATTERN" value="org.example._4_factoryMethodPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,11 +66,11 @@
       </method>
     </configuration>
     <configuration name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.commandPattern.RemoteLoader" />
+      <option name="MAIN_CLASS_NAME" value="org.example._6_commandPattern.RemoteLoader" />
       <module name="DesignPatternCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.commandPattern.*" />
+          <option name="PATTERN" value="org.example._6_commandPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,11 +79,11 @@
       </method>
     </configuration>
     <configuration name="StarBuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.decoratorPattern.StarBuzzCoffee" />
+      <option name="MAIN_CLASS_NAME" value="org.example._3_decoratorPattern.StarBuzzCoffee" />
       <module name="DesignPatternCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.decoratorPattern.*" />
+          <option name="PATTERN" value="org.example._3_decoratorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.observerPattern.WeatherStation" />
+      <option name="MAIN_CLASS_NAME" value="org.example._2_observerPattern.WeatherStation" />
       <module name="DesignPatternCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.observerPattern.*" />
+          <option name="PATTERN" value="org.example._2_observerPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.abstractFactoryMethodPattern.PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.abstractFactoryMethodPattern.PizzaTestDrive" />
+    <configuration name="org.example._4a_abstractFactoryMethodPattern.PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example._4a_abstractFactoryMethodPattern.PizzaTestDrive" />
       <module name="DesignPatternCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.abstractFactoryMethodPattern.*" />
+          <option name="PATTERN" value="org.example._4a_abstractFactoryMethodPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,7 +121,7 @@
       <list>
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.RemoteLoader" />
-        <item itemvalue="Application.org.example.abstractFactoryMethodPattern.PizzaTestDrive" />
+        <item itemvalue="Application.org.example._4a_abstractFactoryMethodPattern.PizzaTestDrive" />
         <item itemvalue="Application.PizzaTestDrive" />
         <item itemvalue="Application.StarBuzzCoffee" />
       </list>
@@ -183,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717315793578</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tamamlandı">
+      <option name="closed" value="true" />
+      <created>1717335033389</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717335033389</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,6 +201,7 @@
     <MESSAGE value="Singleton, Command, Adapter, facade, template patterns eklendi" />
     <MESSAGE value="iterator, composite ve state patterns eklendi" />
     <MESSAGE value="strategy main class refactor edildi" />
-    <option name="LAST_COMMIT_MESSAGE" value="strategy main class refactor edildi" />
+    <MESSAGE value="tamamlandı" />
+    <option name="LAST_COMMIT_MESSAGE" value="tamamlandı" />
   </component>
 </project>
