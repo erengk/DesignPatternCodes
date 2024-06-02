@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="715c09f1-6faf-488d-9bf7-fc129a09956c" name="Changes" comment="iterator, composite ve state patterns eklendi">
+    <list default="true" id="715c09f1-6faf-488d-9bf7-fc129a09956c" name="Changes" comment="strategy main class refactor edildi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,20 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PizzaTestDrive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoteLoader.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarBuzzCoffee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WeatherStation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.abstractFactoryMethodPattern.PizzaTestDrive.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.PizzaTestDrive.executor": "Run",
+    "Application.RemoteLoader.executor": "Run",
+    "Application.StarBuzzCoffee.executor": "Run",
+    "Application.WeatherStation.executor": "Run",
+    "Application.org.example.abstractFactoryMethodPattern.PizzaTestDrive.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.RemoteLoader">
+}]]></component>
+  <component name="RunManager" selected="Application.WeatherStation">
     <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.factoryMethodPattern.PizzaTestDrive" />
       <module name="DesignPatternCodes" />
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.RemoteLoader" />
         <item itemvalue="Application.org.example.abstractFactoryMethodPattern.PizzaTestDrive" />
         <item itemvalue="Application.PizzaTestDrive" />
         <item itemvalue="Application.StarBuzzCoffee" />
-        <item itemvalue="Application.WeatherStation" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717276370493</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="strategy main class refactor edildi">
+      <option name="closed" value="true" />
+      <created>1717315793578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717315793578</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +192,7 @@
     <MESSAGE value="Decorator pattern, Factory method pattern, abstract factory method eklendi" />
     <MESSAGE value="Singleton, Command, Adapter, facade, template patterns eklendi" />
     <MESSAGE value="iterator, composite ve state patterns eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="iterator, composite ve state patterns eklendi" />
+    <MESSAGE value="strategy main class refactor edildi" />
+    <option name="LAST_COMMIT_MESSAGE" value="strategy main class refactor edildi" />
   </component>
 </project>
