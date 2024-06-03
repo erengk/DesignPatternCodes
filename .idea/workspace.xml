@@ -6,6 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="715c09f1-6faf-488d-9bf7-fc129a09956c" name="Changes" comment="tamamlandı">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/CurrentConditionsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/DisplayElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/ForecastDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/StatisticsDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/ThirdPartyDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/WeatherStation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717335033389</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="tamamlandı">
+      <option name="closed" value="true" />
+      <created>1717351311604</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717351311604</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -1,5 +1,6 @@
 package org.example._2_observerPattern;
 
-interface Observer {
-    void update(float temp, float humidity, float pressure);
+public interface Observer {
+    void update(float temperature, float humidity, float pressure);
 }
+
