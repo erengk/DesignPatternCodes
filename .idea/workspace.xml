@@ -6,15 +6,36 @@
   <component name="ChangeListManager">
     <list default="true" id="715c09f1-6faf-488d-9bf7-fc129a09956c" name="Changes" comment="tamamlandı">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/CurrentConditionsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/DisplayElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/ForecastDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/StatisticsDisplay.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/ThirdPartyDisplay.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_2_observerPattern/WeatherStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Cheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ChicagoPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ChicagoPizzaIngredientFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ChicagoPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Clams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Clams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Dough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/FreshClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/FreshClams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/FrozenClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/FrozenClams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Garlic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/MarinaraSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/MarinaraSauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/MozzarellaCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/MozzarellaCheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Mushroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/NYPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/NYPizzaIngredientFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/NYPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Onion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Pepperoni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/PepperoniPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/PizzaIngredientFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/PlumTomatoSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/PlumTomatoSauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/RedPepper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ReggianoCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ReggianoCheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Sauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Sauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/SlicedPepperoni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ThickCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ThickCrustDough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ThinCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/ThinCrustDough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/VeggiePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_4a_abstractFactoryMethodPattern/Veggies.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +81,7 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WeatherStation">
+  <component name="RunManager" selected="Application.org.example._4a_abstractFactoryMethodPattern.PizzaTestDrive">
     <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example._4_factoryMethodPattern.PizzaTestDrive" />
       <module name="DesignPatternCodes" />
@@ -128,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example._4a_abstractFactoryMethodPattern.PizzaTestDrive" />
+        <item itemvalue="Application.StarBuzzCoffee" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.RemoteLoader" />
-        <item itemvalue="Application.org.example._4a_abstractFactoryMethodPattern.PizzaTestDrive" />
         <item itemvalue="Application.PizzaTestDrive" />
-        <item itemvalue="Application.StarBuzzCoffee" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717351311604</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="tamamlandı">
+      <option name="closed" value="true" />
+      <created>1717389956350</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717389956350</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -2,28 +2,23 @@ package org.example._4a_abstractFactoryMethodPattern;
 
 public class NYPizzaIngredientFactory implements PizzaIngredientFactory {
 
+    @Override
     public Dough createDough() {
         return new ThinCrustDough();
     }
 
+    @Override
     public Sauce createSauce() {
         return new MarinaraSauce();
     }
 
+    @Override
     public Cheese createCheese() {
         return new ReggianoCheese();
     }
 
-    public Veggies[] createVeggies() {
-        Veggies veggies[] = { new Garlic(), new Onion(), new Mushroom(), new RedPepper() };
-        return veggies;
-    }
-
-    public Pepperoni createPepperoni() {
-        return new SlicedPepperoni();
-    }
-
-    public Clams createClam() {
+    @Override
+    public Clams createClams() {
         return new FreshClams();
     }
 }

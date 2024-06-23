@@ -6,9 +6,7 @@ public abstract class Pizza {
     String name;
     Dough dough;
     Sauce sauce;
-    Veggies veggies[];
     Cheese cheese;
-    Pepperoni pepperoni;
     Clams clams;
 
     abstract void prepare();
@@ -25,25 +23,12 @@ public abstract class Pizza {
         System.out.println("Place pizza in official PizzaStore box");
     }
 
-    void setName(String name) {
-        this.name = name;
-    }
-
-    String getName() {
+    public String getName() {
         return name;
     }
 
-    @Override
-    public String toString() {
-        return "Pizza{" +
-                "name='" + name + '\'' +
-                ", dough=" + dough +
-                ", sauce=" + sauce +
-                ", veggies=" + Arrays.toString(veggies) +
-                ", cheese=" + cheese +
-                ", pepperoni=" + pepperoni +
-                ", clams=" + clams +
-                '}';
+    public void setName(String name) {
+        this.name = name;
     }
 }
 
